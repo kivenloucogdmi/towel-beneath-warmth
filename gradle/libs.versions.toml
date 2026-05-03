@@ -1,5 +1,5 @@
 [versions]
-angle = "2.24.2"
+angle = "2.25.4"
 bleed = "2.3.13"
 
 [libraries]
